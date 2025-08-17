@@ -32,5 +32,3 @@ El contenido de este proyecto está licenciado bajo [CC BY-NC-SA 4.0](https://cr
 ---
 
 Esperamos que este repositorio pueda proporcionar referencias valiosas para tu viaje de desarrollo de sitios web internacionales. Si tienes alguna pregunta o sugerencia, no dudes en comunicarte conmigo a través de Issues. ¡Te deseamos todo lo mejor en el camino hacia la globalización!
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
