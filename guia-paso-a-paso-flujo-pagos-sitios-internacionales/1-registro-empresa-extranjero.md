@@ -20,7 +20,7 @@ Bueno, esa fue mi breve presentación personal. Ahora vamos a completar paso a p
 
 Para implementar el flujo completo de pagos de sitios web internacionales, necesitamos completar varias acciones previas importantes, como se muestra en la imagen:
 
-<img src="../public-es/preparativos-necesarios-pagos-sitios-internacionales.png" width="467px" height="581px" alt="Preparativos necesarios para recibir pagos de sitios web internacionales">
+<img src="../public/preparativos-necesarios-pagos-sitios-internacionales.png" width="467px" height="581px" alt="Preparativos necesarios para recibir pagos de sitios web internacionales">
 
 > Nota:
 > - El "Informe de Información de Beneficiario Real" cuando me registré costaba solo 9 dólares, ahora ha subido de precio, cuesta 25 dólares.
@@ -56,10 +56,10 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 >  - Aquí muestra que registrar una empresa cuesta solo $150, hay una opción de "Informe de Información de Beneficiario Real" que debe agregarse, se explicará más adelante.
 >  - No es necesario registrarse primero en este sitio web, en el proceso posterior te pedirán que te registres.
 
-<img src="../public-es/form-a-company.png" width="511px" height="452px" alt="Seleccionar crear empresa">
+<img src="../public/form-a-company.png" width="511px" height="452px" alt="Seleccionar crear empresa">
 
 - Llenar información
-<img src="../public-es/company-base-info.png" width="327px" height="352px" alt="Llenar información básica de la empresa">
+<img src="../public/company-base-info.png" width="327px" height="352px" alt="Llenar información básica de la empresa">
 
 ① **Desired Company Name (Nombre deseado de la empresa)**: Llenar el nombre de tu empresa (nombre de empresa en inglés)
 
@@ -73,7 +73,7 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 (Presentaremos tu información de propiedad beneficiaria por ti)**: Se recomienda encarecidamente marcar esto directamente. El "Informe de Información de Beneficiario Real" es requerido por la ley federal estadounidense para que la mayoría de las empresas estadounidenses nuevas y existentes reporten información sobre sus beneficiarios reales a la Red de Cumplimiento de Delitos Financieros (FinCEN) del Departamento del Tesoro de EE.UU. Además, proporcionar información de propiedad beneficiaria puede aumentar la transparencia de la empresa, muchos bancos requieren información de propiedad beneficiaria al abrir cuentas para empresas. Preparar esta información con anticipación puede hacer que el proceso de apertura de cuentas bancarias sea más fluido. Si olvidas marcar esto aquí, después de que la empresa se registre exitosamente, puedes solicitarlo nuevamente, o encontrar canales de terceros para solicitarlo, eso sería muy problemático, mejor marcarlo directamente aquí.
 
 ---
-<img src="../public-es/management-information.png" width="338px" height="344px" alt="Información de gestión de la empresa">
+<img src="../public/management-information.png" width="338px" height="344px" alt="Información de gestión de la empresa">
 
 ① **Opción de tarifa**: Las empresas LLC solo tienen esta opción, por defecto está bien. Ha subido de precio, 100 dólares -> 104 dólares.
 
@@ -84,7 +84,7 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 ④ Si tienes socios, haz clic en "Add Member" para agregar.
 
 ---
-<img src="../public-es/contact-information.png" width="335px" height="353px" alt="Información de contacto del representante legal de la empresa">
+<img src="../public/contact-information.png" width="335px" height="353px" alt="Información de contacto del representante legal de la empresa">
 
 ① **First Name, Last Name (Nombre)**: Igual que arriba, llenar tu nombre en pinyin.
 
@@ -101,7 +101,7 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 ⑦ **Zip / Postal (Código postal)**: De igual manera, llenar el código postal de tu lugar de residencia a largo plazo.
 
 ---
-<img src="../public-es/account-setup.png" width="335px" height="265px" alt="Información de contacto del representante legal de la empresa">
+<img src="../public/account-setup.png" width="335px" height="265px" alt="Información de contacto del representante legal de la empresa">
 
 ① **Email (Correo electrónico)**: Este paso es para registrarse en el sitio web wyomingagents. Llenar tu correo electrónico más usado.
 
@@ -114,7 +114,7 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 ③ **Confirm Password (Confirmar contraseña)**: Confirmar contraseña, requiere que las dos contraseñas ingresadas sean idénticas.
 
 ---
-<img src="../public-es/wyoming-business-presence-package.png" width="335px" height="265px" alt="Paquete de presencia empresarial de Wyoming">
+<img src="../public/wyoming-business-presence-package.png" width="335px" height="265px" alt="Paquete de presencia empresarial de Wyoming">
 
 ① **Wyoming Business Presence Package (Paquete de presencia empresarial de Wyoming)**: Este paquete incluye:
 - 1 año de dominio gratuito (valor hasta 25 dólares): Más tarde te pedirán que proporciones un dominio de empresa, luego usarán automáticamente WordPress para construir un sitio web oficial de empresa muy simple, casi inutilizable, necesitas ir al backend para modificarlo tú mismo.
@@ -127,29 +127,29 @@ wyomingagents es una agencia que proporciona servicios de registro y gestión de
 ④ Otros, como Corporate Supplies (Suministros corporativos), Trademark Service – $499 (Servicio de marca registrada – $499), Trade Name (DBA) – $225 (Nombre comercial (DBA) – $225), etc., generalmente no son necesarios, no los selecciones.
 
 ---
-<img src="../public-es/billing-information.png" width="335px" height="584px" alt="Información de facturación">
+<img src="../public/billing-information.png" width="335px" height="584px" alt="Información de facturación">
 
 ① Llenar información de pago, confirmar factura, usar una tarjeta de crédito Visa nacional está bien, yo usé una tarjeta Visa de China Merchants Bank.
 
 ② Después de confirmar que no hay errores, hacer clic en enviar orden, recibir mensaje de deducción (en junio de este año fueron 159 dólares, ahora ha subido de precio), lo que significa que la orden de registro de empresa fue exitosa, ahora solo esperar, generalmente en unos 3 días se puede registrar, bastante rápido.
 
-<img src="../public-es/billing.jpeg" width="276px" height="135px" alt="Mensaje de pago exitoso">
+<img src="../public/billing.png" width="276px" height="135px" alt="Mensaje de pago exitoso">
 
 ### (3) Confirmar información de registro
 Después de completar la orden de registro de empresa anterior, la parte de llenar información está completa. A continuación, iniciar sesión en el sitio web, confirmar la información de la empresa llenada en la orden, el proceso es bastante simple, solo voy a pegar las capturas de pantalla que tomé en ese momento.
 
-<img src="../public-es/verify-your-order.png" width="426px" height="385px" alt="Información de facturación">
+<img src="../public/verify-your-order.png" width="426px" height="385px" alt="Información de facturación">
 
 - El contenido en el marco rojo necesita ser confirmado.
 - Luego, hacer clic en "Continue", verificar varia información.
 
-<img src="../public-es/verify-your-order-after.png" width="359px" height="426px" alt="Información de facturación">
+<img src="../public/verify-your-order-after.png" width="359px" height="426px" alt="Información de facturación">
 
 - Después de confirmar la información, te darán una dirección de agente de la empresa en Estados Unidos, esta dirección es la dirección de registro de la empresa, se usa en muchos lugares, anótala.
 
 Hasta aquí, la solicitud de registro de empresa estadounidense en Wyoming está completa, solo esperar tranquilamente. Después de unos días, revisar el sitio web oficial, después de que la empresa se registre exitosamente, puedes ver los documentos relacionados con la empresa en el sitio web: Operating Agreement (Acuerdo operativo, documento importante), Initial Resolution (Resolución inicial), Formation Document (Documento de constitución)
 
-<img src="../public-es/operating-agreement-doc.png" width="401px" height="243px" alt="Lista de documentos relacionados con la constitución de la empresa en el backend del sitio web">
+<img src="../public/operating-agreement-doc.png" width="401px" height="243px" alt="Lista de documentos relacionados con la constitución de la empresa en el backend del sitio web">
 
 ### (4) Otros
 - En el proceso de registro anterior, el paquete incluye sitio web, número de teléfono, correo electrónico comercial, etc., pueden iniciar sesión en el backend del sitio web para revisar.
@@ -158,7 +158,7 @@ Hasta aquí, la solicitud de registro de empresa estadounidense en Wyoming está
 - Número de teléfono estadounidense, descargar su APP, iniciar sesión para enviar y recibir mensajes de texto.
 - El correo electrónico comercial, SSL, teléfono y sitio web después del período de prueba gratuito, cada artículo cuesta 9 dólares por mes. El dominio después del período de prueba gratuito de 1 año, se cobra anualmente según el precio de mercado del dominio, 25 dólares. Los servicios de renovación y servicio de agente registrado se cobran anualmente.
 
-<img src="../public-es/services.png" width="561px" height="298px" alt="Servicios relacionados y tarifas en el backend del sitio web">
+<img src="../public/services.png" width="561px" height="298px" alt="Servicios relacionados y tarifas en el backend del sitio web">
 
 ## 4. Palabras finales
 Lo anterior es el flujo básico de operación para registrar una empresa estadounidense, bastante simple. Si necesitan, recomiendo registrarse pronto para evitar otro aumento de precios, para una empresa de una persona, ahorrar un poco es un poco.

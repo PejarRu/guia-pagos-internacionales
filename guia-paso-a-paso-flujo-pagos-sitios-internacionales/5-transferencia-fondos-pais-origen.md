@@ -10,19 +10,19 @@ Además, uso la plataforma Airwallex, si usan otras plataformas, también pueden
 
 ## 1. Crear pago
 
-<img src="../public-es/pasos-transferencia-01.png" alt="Crear pago">
+<img src="../public/pasos-transferencia-01.png" alt="Crear pago">
 
 Después de iniciar sesión en el backend de Airwallex, hacer clic en ① Pagos -> ② Crear pago
 
 ## 2. Seleccionar método de pago
 
-<img src="../public-es/pasos-transferencia-02.png" alt="Seleccionar método de pago">
+<img src="../public/pasos-transferencia-02.png" alt="Seleccionar método de pago">
 
 ① Seleccionar pago bancario transfronterizo
 
 ## 3. Llenar información de transferencia
 
-<img src="../public-es/pasos-transferencia-03.png" alt="Llenar información de transferencia">
+<img src="../public/pasos-transferencia-03.png" alt="Llenar información de transferencia">
 
 Este paso es muy crítico, asegúrense de llenarlo correctamente:
 - Seleccionar la cantidad que quieren transferir
@@ -45,7 +45,7 @@ Este paso es muy crítico, asegúrense de llenarlo correctamente:
 
 ## 4. Información del receptor
 
-<img src="../public-es/pasos-transferencia-04.png" alt="Información del receptor">
+<img src="../public/pasos-transferencia-04.png" alt="Información del receptor">
 
 Este paso llenar según los requisitos:
 
@@ -61,7 +61,7 @@ Este paso llenar según los requisitos:
 
 ## 5. Razón del pago
 
-<img src="../public-es/pasos-transferencia-05.png" alt="Llenar razón del pago">
+<img src="../public/pasos-transferencia-05.png" alt="Llenar razón del pago">
 
 Este paso es el segundo obstáculo que encontré:
 
@@ -73,7 +73,7 @@ Este paso es el segundo obstáculo que encontré:
 
 ## 6. Completar pago
 
-<img src="../public-es/pasos-transferencia-06.png" alt="Completar pago">
+<img src="../public/pasos-transferencia-06.png" alt="Completar pago">
 
 Hasta aquí, todo el proceso de pago está creado.
 
@@ -85,7 +85,7 @@ Después de unos días más, ayer recreé el pago, esta mañana el banco me llam
 
 En este momento estaba completamente agotado, pensando que tendría que reembolsar otra vez, pero afortunadamente la cantidad era relativamente pequeña, el personal de China Merchants Bank también era bastante amigable, finalmente completé el depósito bastante exitosamente.
 
-<img src="../public-es/notificacion-deposito-china-merchants-bank.jpeg" alt="Depósito exitoso">
+<img src="../public/notificacion-deposito-china-merchants-bank.png" alt="Depósito exitoso">
 
 Así que, cuando transfieren fondos de vuelta al país, asegúrense de prestar atención a los dos obstáculos anteriores:
 - **Seleccionar dólares estadounidenses (USD) para la moneda de depósito**

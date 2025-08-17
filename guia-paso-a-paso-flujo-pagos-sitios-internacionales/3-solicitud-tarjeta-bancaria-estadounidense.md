@@ -19,7 +19,7 @@ Más tarde, abandoné la solicitud a Mercury Bank. Me enteré de que "Airwallex"
 👉 [Airwallex](https://www.airwallex.com/cn/signup)
 
 ### (2) Proceso de apertura
-<img src="../public-es/airwallex-signup.PNG" width="257px" height="461px" alt="Registrarse en Airwallex">
+<img src="../public/airwallex-signup.png" width="257px" height="461px" alt="Registrarse en Airwallex">
 
 ① País donde está registrada la empresa: Estados Unidos
 
@@ -33,20 +33,20 @@ Más tarde, abandoné la solicitud a Mercury Bank. Me enteré de que "Airwallex"
 
 ---
 
-<img src="../public-es/creat-airwallex-account.PNG" width="422px" height="464px" alt="Crear cuenta de Airwallex">
+<img src="../public/creat-airwallex-account.png" width="422px" height="464px" alt="Crear cuenta de Airwallex">
 
 Seleccionar el propósito de abrir "Airwallex", generalmente, seleccionar "Recaudación, recibir transferencias, cambio multicurrencia" estas 3 es suficiente.
 
 ---
 
-<img src="../public-es/airwallex-checkout.PNG" width="508px" height="308px" alt="Crear cuenta de Airwallex">
+<img src="../public/airwallex-checkout.png" width="508px" height="308px" alt="Crear cuenta de Airwallex">
 
 ① **Verificar correo**: Bastante simple, hacer clic para entrar y verificar.
 
 ② **Activar cuenta**: Este paso es algo tedioso, dividido en 10 pequeños módulos, con bastante información que llenar, a continuación voy a introducir uno por uno.
 
 ---
-<img src="../public-es/business-details.png" width="489px" height="638px" alt="Detalles de información de empresa registrada - Detalles empresariales">
+<img src="../public/business-details.png" width="489px" height="638px" alt="Detalles de información de empresa registrada - Detalles empresariales">
 
 ① **Entity (Tipo de entidad)**: Seleccionar "Company".
 
@@ -59,42 +59,42 @@ Seleccionar el propósito de abrir "Airwallex", generalmente, seleccionar "Recau
 ⑤, ⑥, ⑦ Muy simple, llenar la ciudad correspondiente a la dirección, provincia/ciudad y código postal correspondiente.
 
 ---
-<img src="../public-es/business-document.png" width="496px" height="282px" alt="Documento de prueba de registro de empresa">
+<img src="../public/business-document.png" width="496px" height="282px" alt="Documento de prueba de registro de empresa">
 
 ① Este paso requiere subir el archivo de registro de empresa de [Registro de Empresa en el Extranjero](./1-registro-empresa-extranjero.md), descargarlo y subirlo.
 
 ---
-<img src="../public-es/industry.png" width="503px" height="276px" alt="Industria principal de la empresa">
+<img src="../public/industry.png" width="503px" height="276px" alt="Industria principal de la empresa">
 
 ① Seleccionar la industria principal en la que opera tu empresa, elegir según tu industria principal.
 
 ---
-<img src="../public-es/products-or-services.png" width="492px" height="266px" alt="Productos o servicios que opera la empresa">
+<img src="../public/products-or-services.png" width="492px" height="266px" alt="Productos o servicios que opera la empresa">
 
 ① Aquí llenar la descripción de productos o servicios de tu empresa, llenar según la situación real, siguiendo el ejemplo de escritura, simple, claro y conciso.
 
 ---
-<img src="../public-es/website.png" width="498px" height="285px" alt="Agregar tu sitio web">
+<img src="../public/website.png" width="498px" height="285px" alt="Agregar tu sitio web">
 
 ① Llenar la dirección de tu sitio web, nota que debe ser un sitio web ya en línea, puede ser el sitio web oficial de tu propia empresa, el sitio web no debe ser demasiado simple, como un sitio web normal, preferiblemente relacionado con el negocio que llenaste anteriormente. También puede ser una tienda en línea en plataformas de comercio electrónico, enlaces de descarga de tiendas de aplicaciones y perfiles de redes sociales. Puedes agregar múltiples sitios web, después de todo es revisión manual, mientras más detallados y reales sean los materiales, más fácil es pasar.
 
 ---
-<img src="../public-es/monthly-revenue.png" width="498px" height="397px" alt="Llenar tus ingresos mensuales o facturación">
+<img src="../public/monthly-revenue.png" width="498px" height="397px" alt="Llenar tus ingresos mensuales o facturación">
 
 ① Seleccionar los ingresos mensuales o facturación de los productos o servicios de tu empresa, si aún no tienes ingresos, seleccionar el primero, el más bajo.
 
 ---
-<img src="../public-es/business-location.png" width="501px" height="292px" alt="Llenar dónde desarrollas tu negocio">
+<img src="../public/business-location.png" width="501px" height="292px" alt="Llenar dónde desarrollas tu negocio">
 
 ① Seleccionar las regiones donde desarrollas tu negocio, máximo seleccionar 5 regiones, si es un negocio dirigido globalmente, seleccionar algunos países principales.
 
 ---
-<img src="../public-es/list-of-business-owners.png" width="309px" height="319px" alt="Lista de propietarios de la empresa">
+<img src="../public/list-of-business-owners.png" width="309px" height="319px" alt="Lista de propietarios de la empresa">
 
 ① Llenar el controlador real de tu empresa, si es una empresa de una persona, llenar tu propio nombre, si hay socios, continuar agregando.
 
 ---
-<img src="../public-es/applicant-identity.png" width="460px" height="962px" alt="Verificación de información del solicitante">
+<img src="../public/applicant-identity.png" width="460px" height="962px" alt="Verificación de información del solicitante">
 
 > Aquí se llena la información del solicitante. Como solicitantes, también necesitamos completar el paso de confirmación de identidad en tiempo real en línea. Después de hacer clic en "Submit", el sistema nos guiará para subir copias de identificación y verificar nuestra identidad a través de una simple interacción de video.
 
@@ -107,7 +107,7 @@ Seleccionar el propósito de abrir "Airwallex", generalmente, seleccionar "Recau
 ⑮ Después de hacer clic en "Submit" para enviar, saltará a la parte de verificación de identidad en línea, seguir las instrucciones para operar y verificar, bastante simple.
 
 ---
-<img src="../public-es/airwallex-register-end.png" width="461px" height="300px" alt="Registro de Airwallex completado, esperando activación">
+<img src="../public/airwallex-register-end.png" width="461px" height="300px" alt="Registro de Airwallex completado, esperando activación">
 
 Después de completar la información anterior, podemos ver que "activar cuenta" se convierte en estado "en revisión".
 
@@ -120,7 +120,7 @@ Después de llenar el proceso de solicitud de "Airwallex", simplemente esperamos
 
 En ese momento no nos comunicamos claramente, pensé que las empresas estadounidenses no podían abrir "Airwallex", estaba preparándome para buscar otras soluciones alternativas, pero después de unos días, recibí un mensaje de texto, ¡la cuenta se abrió exitosamente!
 
-<img src="../public-es/airwallex-success.jpg" width="276px" height="153px" alt="Mensaje de apertura exitosa de cuenta Airwallex">
+<img src="../public/airwallex-success.png" width="276px" height="153px" alt="Mensaje de apertura exitosa de cuenta Airwallex">
 
 Luego, iniciamos sesión en el sitio web de "Airwallex", vamos al backend para seleccionar y abrir la tarjeta bancaria comercial estadounidense.
 

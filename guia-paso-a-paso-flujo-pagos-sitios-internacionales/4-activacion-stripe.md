@@ -17,7 +17,7 @@ Ahora vamos paso a paso a activar Stripe.
 
 ### (2) Activar Stripe
 
-<img src="../public-es/stripe-business-type.png" width="418px" height="379px" alt="stripe-tipo de comerciante">
+<img src="../public/stripe-business-type.png" width="418px" height="379px" alt="stripe-tipo de comerciante">
 
 ① **Ubicación del negocio**: Estados Unidos, seleccionar el país real donde está registrada tu empresa.
 
@@ -26,7 +26,7 @@ Ahora vamos paso a paso a activar Stripe.
 ③ **Estructura de la empresa**: Single-member LLC, seleccionar el tipo real de tu empresa.
 
 ---
-<img src="../public-es/stripe-business-details.png" width="416px" height="784px" alt="stripe-detalles del comerciante">
+<img src="../public/stripe-business-details.png" width="416px" height="784px" alt="stripe-detalles del comerciante">
 
 ① **Nombre legal del comerciante**: Llenar el nombre de tu empresa registrada.
 
@@ -41,7 +41,7 @@ Ahora vamos paso a paso a activar Stripe.
 ⑥ **Descripción del producto**: Llenar las funcionalidades que proporciona el sitio web, describir de manera concisa y real.
 
 ---
-<img src="../public-es/stripe-company-owner.png" width="421px" height="640px" alt="stripe-representante de la empresa">
+<img src="../public/stripe-company-owner.png" width="421px" height="640px" alt="stripe-representante de la empresa">
 
 ① **Nombre legal**: Este paso es para verificar la información del representante legal de la empresa. Aquí llenar tu propio nombre, en chino está bien.
 
@@ -56,7 +56,7 @@ Ahora vamos paso a paso a activar Stripe.
 ⑥ **Número de cédula de identidad personal**: Seleccionar China (CN), luego llenar tu número de cédula de identidad.
 
 ---
-<img src="../public-es/stripe-public-information.png" width="375px" height="640px" alt="stripe-detalles públicos">
+<img src="../public/stripe-public-information.png" width="375px" height="640px" alt="stripe-detalles públicos">
 
 > Esta parte son los detalles públicos de la empresa proporcionados a los clientes, esta información puede mostrarse en descripciones de pago, facturas o recibos.
 
@@ -67,36 +67,36 @@ Ahora vamos paso a paso a activar Stripe.
 ③ **Dirección de atención al cliente**: Llené la dirección de registro estadounidense de la empresa.
 
 ---
-<img src="../public-es/stripe-add-bank-account.png" width="414px" height="363px" alt="stripe-agregar cuenta bancaria">
+<img src="../public/stripe-add-bank-account.png" width="414px" height="363px" alt="stripe-agregar cuenta bancaria">
 
 ① **Seleccionar tu cuenta bancaria**: Aquí llenar directamente la información de la tarjeta bancaria comercial estadounidense solicitada en [3. Solicitud de Tarjeta Bancaria Estadounidense](./3-solicitud-tarjeta-bancaria-estadounidense.md).
 
 ② **Seleccionar tu plan de retiro**: Personalizar la selección del plan de retiro, automático o manual está bien.
 
 ---
-<img src="../public-es/stripe-two-factor-authentication.png" width="396px" height="270px" alt="stripe-verificación en dos pasos de cuenta">
+<img src="../public/stripe-two-factor-authentication.png" width="396px" height="270px" alt="stripe-verificación en dos pasos de cuenta">
 
 ① Este paso es la verificación en dos pasos de la cuenta Stripe, operar según los requisitos, bastante simple.
 
 ---
-<img src="../public-es/stripe-tax-calculation.png" width="389px" height="357px" alt="stripe-cálculo de impuestos">
+<img src="../public/stripe-tax-calculation.png" width="389px" height="357px" alt="stripe-cálculo de impuestos">
 
 ① Seleccionar método de cálculo de impuestos, seleccioné el método predeterminado: General - servicios proporcionados electrónicamente. También puedes ver otros métodos, seleccionar el que sea adecuado para ti, si no sabes cuál es adecuado, seleccionar el predeterminado.
 
 ---
-<img src="../public-es/stripe-review-and-complete.png" width="414px" height="743px" alt="stripe-revisar y completar">
+<img src="../public/stripe-review-and-complete.png" width="414px" height="743px" alt="stripe-revisar y completar">
 
 Hasta este paso, la parte de llenar información básicamente está completa, hacer clic directamente en "Aceptar y enviar", luego debería saltar a una página de "Complementar materiales de verificación de identidad", ¿recuerdas haber llenado el número de cédula de identidad antes? Aquí necesitas subir o fotografiar y subir fotos de la cédula de identidad.
 
 ---
-<img src="../public-es/stripe-provide-additional-identity-document-1.png" width="415px" height="390px" alt="stripe-complementar materiales de verificación de identidad-1">
+<img src="../public/stripe-provide-additional-identity-document-1.png" width="415px" height="390px" alt="stripe-complementar materiales de verificación de identidad-1">
 
-<img src="../public-es/stripe-provide-additional-identity-document-2.png" width="223px" height="327px" alt="stripe-complementar materiales de verificación de identidad-2">
+<img src="../public/stripe-provide-additional-identity-document-2.png" width="223px" height="327px" alt="stripe-complementar materiales de verificación de identidad-2">
 
 Este paso es "Complementar verificación de materiales de identidad", seleccionar la forma conveniente para subir materiales de identidad, es mejor preparar con anticipación fotos del frente y reverso de la cédula de identidad, luego subirlas directamente.
 
 ---
-<img src="../public-es/stripe-activation-successful.png" width="492px" height="255px" alt="stripe-activación exitosa">
+<img src="../public/stripe-activation-successful.png" width="492px" height="255px" alt="stripe-activación exitosa">
 
 Después de completar todos los pasos anteriores, saltará a la página de "Activación exitosa", ¡en este momento nuestra activación de Stripe está completa! Lo que queda es que nosotros mismos, según la documentación de Stripe, integremos el pago a nuestro sitio web.
 
